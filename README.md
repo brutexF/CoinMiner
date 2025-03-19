@@ -5,8 +5,6 @@ Welcome to **CoinMiner** — the high-performance cryptocurrency mining solution
 
 > **Maximize your mining profits with minimal setup!**
 
-![CoinMiner](https://example.com/logo.png)  <!-- Replace this with an actual logo image -->
-
 ## 📦 Features
 - **💨 High Performance**: Optimized for speed and efficiency.
 - **🔄 Multi-Algorithm Support**: Mine multiple cryptocurrencies across different algorithms.
